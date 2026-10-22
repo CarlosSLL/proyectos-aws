@@ -1,0 +1,16 @@
+# Datos y ciencia de datos (prácticas 2, 3, 4 y 5)
+pandas>=2.2
+numpy
+scikit-learn
+matplotlib
+seaborn
+faker
+
+# AWS S3 y lectura de config.yaml (prácticas 1 y 5)
+boto3
+pyyaml
+pyarrow
+
+# PostgreSQL (práctica 5). Se usa psycopg 3, NO psycopg2
+sqlalchemy>=2.0
+psycopg[binary]>=3.1
